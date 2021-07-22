@@ -1,2 +1,2 @@
 # Health-Management-System
-Python
+This project in Python.
